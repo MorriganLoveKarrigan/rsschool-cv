@@ -3,7 +3,7 @@
 * Location: Uzbekistan,Tashkent
 * Email : ergashevmaksud9@gmail.com
 * Phone : +998906442134
-* Discord : Morrigan#2032
+* Discord: Morrigan#2032
 * GitHub : [MorriganLoveKarrigan](https://github.com/MorriganLoveKarrigan)
 
 ## About
