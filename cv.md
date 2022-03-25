@@ -24,7 +24,7 @@ I started my career a long time ago in the field of marketing and advertising, m
 
 ## Code Example
 
-Red Knight is chasing two pawns. Which pawn will be caught, and where?
+__Red Knight is chasing two pawns. Which pawn will be caught, and where?
 
 Input / Output
 Input will be two integers:
@@ -34,7 +34,7 @@ P / p (Ruby) horizontal position of two pawns (between 2 and 1000000).
 Output has to be a tuple (python, haskell, Rust, prolog, C#), an array (javascript, ruby), an object (java), or a structure (C) with:
 
 "Black" or "White" - which pawn was caught
-Where it was caught (horizontal position)
+Where it was caught (horizontal position)__
 
 ```
 function redKnight(N, P) {
@@ -43,7 +43,7 @@ let color = P % 2 == 0 ? N == 0 ? "White" : "Black": N == 0 ? "Black" : "White";
   return [color,x]
 }
 ```
-Write a function that accepts an array of 10 integers (between 0 and 9), that returns a string of those numbers in the form of a phone number.
+__Write a function that accepts an array of 10 integers (between 0 and 9), that returns a string of those numbers in the form of a phone number.__
 
 ```
 function createPhoneNumber(numbers){
